@@ -8,7 +8,7 @@ export default function HeroSection() {
 
       {/* Headline */}
       <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-4 text-white">
-        I'm <span className="text-white">Ahmad Tantra</span>
+        I&apos;m <span className="text-white">Ahmad Tantra</span>
       </h1>
       <h2 className="text-2xl md:text-4xl font-semibold text-gray-400 mb-8">
         Next.js Developer & UI/UX Designer
